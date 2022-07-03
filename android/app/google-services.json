@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393752190405",
+    "firebase_url": "https://schooltime-f5ecb-default-rtdb.firebaseio.com",
+    "project_id": "schooltime-f5ecb",
+    "storage_bucket": "schooltime-f5ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393752190405:android:3177dec6de25e1d2c27fac",
+        "android_client_info": {
+          "package_name": "com.schooltime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393752190405-uq7ti8poseo8b88pf12mhsqmtml82dgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9Q2NIDfJPrtIsUlxEj6xzdAzxrXO-6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393752190405-uq7ti8poseo8b88pf12mhsqmtml82dgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
